@@ -56,4 +56,6 @@
 
 ![img_v3_02vm_46846429-8f46-448e-aade-cdc1f10a4ddg](https://github.com/user-attachments/assets/40d2ff07-35c9-481a-b7ec-1358d68c21a3)
 
+![img_v3_02vm_2](https://github.com/eninem123/my-achievements/blob/main/Screenshot_2026-05-31-16-41-40-945_com.baidu.netdisk-edit.jpg)
+
 > 注：所有证书图片仅用于个人能力展示，请勿盗用。
