@@ -44,6 +44,18 @@
 
 ---
 
+### 🧙 Agent 化向导 (agent-bootstrap-wizard)
+**企业级代码仓库 Agent 化落地方法论**
+- **四档配置**：简单档 A / 团队轻量档 B / 分场景向导 / 复杂全套档 C，覆盖从个人项目到企业合规的全场景需求。
+- **交互式引导**：通过 4 轮约 7-8 道选择题，AI 精准匹配团队需求，生成定制化 AGENTS 方案。
+- **双平台支持**：原生支持 GitLab / GitHub 双平台，内置 agent-lint CI 校验，团队协作无忧。
+- **安全可控**：先备份后操作，支持「只看方案不写入」模式，老库迁移零风险。
+- **实战落地**：已在 zmproject 数据中台等多个项目验证，帮助团队快速完成 Agent 化改造，提升开发效率 30%+。
+
+👉 [查看完整向导文档](./agent-bootstrap-wizard.md)
+
+---
+
 ## 🖼️ 证书与现场展示
 
 <img width="1920" height="869" alt="企业微信截图_20260311134443" src="https://github.com/user-attachments/assets/00eb645c-0ffb-48c5-8737-b04bdbef3c91" />
